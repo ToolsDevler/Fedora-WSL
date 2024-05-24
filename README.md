@@ -21,19 +21,19 @@
 
 <p align="center">
   <a herf="https://github.com/VSWSL/Fedora-WSL/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/VSWSL/Fedora-WSL" />
+    <img src="https://img.shields.io/github/contributors/ToolsDevler/Fedora-WSL" />
   </a>
   <a herf="https://github.com/VSWSL/Fedora-WSL/network/members">
-    <img src="https://img.shields.io/github/forks/VSWSL/Fedora-WSL" />
+    <img src="https://img.shields.io/github/forks/ToolsDevler/Fedora-WSL" />
   </a>
   <a herf="https://github.com/VSWSL/Fedora-WSL/stargazers">
-    <img src="https://img.shields.io/github/stars/VSWSL/Fedora-WSL" />
+    <img src="https://img.shields.io/github/stars/ToolsDevler/Fedora-WSL" />
   </a>
   <a herf="https://github.com/VSWSL/Fedora-WSL/issues">
-    <img src="https://img.shields.io/github/issues/VSWSL/Fedora-WSL" />
+    <img src="https://img.shields.io/github/issues/ToolsDevler/Fedora-WSL" />
   </a>
   <a herf="https://github.com/VSWSL/Fedora-WSL/blob/master/LICENSE.md">
-    <img src="https://img.shields.io/github/license/VSWSL/Fedora-WSL" />
+    <img src="https://img.shields.io/github/license/ToolsDevler/Fedora-WSL" />
   </a>
 </p>
 
